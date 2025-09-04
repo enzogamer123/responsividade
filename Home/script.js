@@ -1,3 +1,3 @@
-function q(){
-    
+function irParaContato(){
+    window.location.href="../Contato"
 }
